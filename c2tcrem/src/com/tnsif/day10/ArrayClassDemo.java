@@ -6,7 +6,7 @@ public class ArrayClassDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//Program to Demonstrate Arrays Class Method
+		//Program to Demonstrate Arrays Class Methods
 	
 
 				
